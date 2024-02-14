@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Minseok</h1>
-<h3 align="center">그냥 그런 사람입니다.</h3>
+<h1 align="center">부산SM고 신입생 김민석 입니다</h1>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **c++, python, java**
 
