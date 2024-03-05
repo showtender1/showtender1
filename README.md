@@ -1,4 +1,4 @@
-<h1 align="center">부산SM고 신입생 김민석 입니다</h1>
+<h1 align="center">반갑습니다 김민석 입니다</h1>
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **c++, python, java**
