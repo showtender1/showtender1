@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **nothing speial**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:kimms99912@gmail.com</h3>
 <p align="left">
 </p>
 
