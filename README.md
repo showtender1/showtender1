@@ -1,7 +1,7 @@
 <h1 align="center">반갑습니다 김민석 입니다</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **c++, python, java**
+- 🌱 I’m currently learning **c++, python, javascript**
 
 - 📫 How to reach me **kimms99912@gmail.com**
 
