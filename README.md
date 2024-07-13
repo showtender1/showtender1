@@ -19,5 +19,5 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="html" width="40" height="40"/>
- <img src="https://velog.velcdn.com/images/lynniepro21/post/bb267329-b457-4f94-afcb-1d0235a4253e/image.jpeg" alt="css" width="40" height="40"/>
+ <img src="[https://velog.velcdn.com/images/lynniepro21/post/bb267329-b457-4f94-afcb-1d0235a4253e/image.jpeg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq15kdLZEWHPSQuhn3y4YqfX8cIBbcsA8FXw&s)" alt="css" width="40" height="40"/>
 </p>
