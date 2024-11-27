@@ -9,7 +9,7 @@
 <p align="left">
 </p>
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{showtender1})
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{김춘배}?theme=light&posts=3)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
